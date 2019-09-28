@@ -3,8 +3,15 @@ import React, { Component } from 'react'
 export default class About extends Component {
     render() {
         return (
-            <div>
-                <h1>welome for pricing pla</h1>
+            <div className ="card">
+                <div className ="section">
+                    <img id="logo-container" src="snowman.jpg">
+                        <div className = "nav">
+                            
+                        </div>
+                    </img>
+
+                </div>
             </div>
         )
     }
