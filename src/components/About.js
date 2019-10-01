@@ -5,11 +5,13 @@ export default class About extends Component {
         return (
             <div className ="card">
                 <div className ="section">
-                    <img id="logo-container" src="snowman.jpg">
-                        <div className = "nav">
+                    
+                  <div> my website   </div>  
                             
-                        </div>
-                    </img>
+            
+                            
+                        
+                
 
                 </div>
             </div>

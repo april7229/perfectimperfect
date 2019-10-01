@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-
+import About from './About';
 
 
 export default class Navbar extends Component {
@@ -20,7 +20,7 @@ export default class Navbar extends Component {
         <a class="nav-link" href="#">Crafts</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#">About</a>
+        <a class="nav-link" href="About">About</a>
       </li>
     </ul>
     <form class="form-inline mt-2 mt-md-0">
